@@ -6,6 +6,8 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 
+use App\User;
+
 class UsersController extends Controller
 {
     public function index(){
@@ -17,8 +19,15 @@ class UsersController extends Controller
     	return view('admin.users.create');
     }
 
-    public function store(){
+    public function store(Request $request)
+    {
 
+    	
+    	$user = new User($request -> all()); 
+    	//para encriptar el password
+    	$user->password = bcrypt($request->password);
+    	$user->save();
+    	dd('Usuario creado');
 
     }
 }
