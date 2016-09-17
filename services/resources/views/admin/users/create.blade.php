@@ -34,7 +34,7 @@
 
 		</div>
 
-		<div class="form-control">
+		<div class="form-panel">
 
 		{!! Form::submit('Registar', ['class' => 'btn btn-primary']) !!}
 
