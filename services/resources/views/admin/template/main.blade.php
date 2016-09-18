@@ -8,6 +8,7 @@
 @include('admin.template.partials.nav')
 
 	<section>
+	@yield('title')
 		
 		@yield('content') 
 	</section>

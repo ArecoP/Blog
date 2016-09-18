@@ -7,7 +7,7 @@
 
 	{!! Form::open(['route' => 'admin.users.store', 'method' => 'POST']) !!}
 
-
+	<div class="form-control-static">
 
 		<div class="form-group">
 			{!! Form::label('name', 'Nombre') !!}
@@ -27,6 +27,8 @@
 
 		</div>
 
+		<!-- CORREGIR PARA REGISTRAR COMO MIEMBRO Y ADMINISTRADOR -->
+
 		<div class="form-group">
 
 		{!! Form::label('type', 'Tipo') !!}
@@ -41,7 +43,7 @@
 		</div>
 
 
-
+</div>
 
 
 	{!! Form::close() !!}

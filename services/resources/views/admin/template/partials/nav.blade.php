@@ -17,13 +17,15 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Inicio <span class="sr-only">(current)</span></a></li>
+         <li class="active"><a href="{{ route('admin.users.index') }}">Usuarios <span class="sr-only">(current)</span></a></li>
+
         <li><a href="#">Noticias</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Opciones <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#">Ultimas Noticias</a></li>
             <li><a href="#">Categorias</a></li>
-            <li><a href="#">Etiquetas</a></li>
+            <li><a href="#">Usuarios</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="#">Informacion</a></li>
             <li role="separator" class="divider"></li>
