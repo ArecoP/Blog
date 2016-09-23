@@ -1,0 +1,553 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"negocio",
+				"negocio_id"
+			],
+			[
+				"emai",
+				"email"
+			],
+			[
+				"admin",
+				"admin.users.index"
+			],
+			[
+				"glyphicon-re",
+				"glyphicon-remove-circle 	Bootstrap 3 Class"
+			],
+			[
+				"gly",
+				"glyphicon-wrench 	Bootstrap 3 Class"
+			],
+			[
+				"g",
+				"glyphicon-edit 	Bootstrap 3 Class"
+			],
+			[
+				"glyphicon-",
+				"glyphicon-remove-sign 	Bootstrap 3 Class"
+			],
+			[
+				"type",
+				"type"
+			],
+			[
+				"table",
+				"table-striped 	Bootstrap 3 Class"
+			],
+			[
+				"use",
+				"$users〔variable〕"
+			],
+			[
+				"form",
+				"formselect	{!! Form::select() !!}"
+			],
+			[
+				"fo",
+				"formsubmit	{!! Form::submit() !!}"
+			],
+			[
+				"for",
+				"formemail	{!! Form::email() !!}"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"btn",
+				"btn-danger 	Bootstrap 3 Class"
+			],
+			[
+				"panel",
+				"panel-body 	Bootstrap 3 Class"
+			],
+			[
+				"pa",
+				"panel 	Bootstrap 3 Class"
+			],
+			[
+				"functi",
+				"function"
+			],
+			[
+				"c",
+				"canvas	Tag"
+			],
+			[
+				"functio",
+				"create_function"
+			],
+			[
+				"container",
+				"container 	Bootstrap 3 Class"
+			],
+			[
+				"cont",
+				"container 	Bootstrap 3 Class"
+			],
+			[
+				"Encar",
+				"EncarService"
+			],
+			[
+				"foot",
+				"panel-footer 	Bootstrap 3 Class"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"class",
+				"class	class …"
+			],
+			[
+				"article",
+				"article_id"
+			],
+			[
+				"artice",
+				"article_id"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"bas",
+				"backface-visibility"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"sou",
+				"soundInvaderShoot"
+			],
+			[
+				"a",
+				"animar"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"cl",
+				"cla	Create controller class"
+			],
+			[
+				"Mo",
+				"MoverRecolector"
+			],
+			[
+				"dir",
+				"dirX"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 250.0,
+		"last_filter": "Xdebug: ",
+		"selected_items":
+		[
+			[
+				"Xdebug: ",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"code intel",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 447.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pedro/Documentos/encar"
+	],
+	"file_history":
+	[
+		"/home/pedro/Laravel/Blog/services/app/Http/Controllers/TestController.php",
+		"/home/pedro/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/home/pedro/Documentos/encar/encar/resources/views/welcome.blade.php",
+		"/home/pedro/Documentos/encar/encar/app/DataTables/ReservaDataTable.php",
+		"/home/pedro/Documentos/encar/encar/database/migrations/2016_09_21_222714_create_reservas_table.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/reservas/fields.blade.php",
+		"/home/pedro/Documentos/encar/encar/app/DataTables/ServicioDataTable.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/negocios/show.blade.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/negocios/index.blade.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/negocios/edit.blade.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/negocios/create.blade.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/servicios/create.blade.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/servicios/fields.blade.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/servicios/index.blade.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/servicios/show.blade.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/servicios/table.blade.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/categorias/create.blade.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/categorias/edit.blade.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/categorias/index.blade.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/categorias/show.blade.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/layouts/app.blade.php",
+		"/home/pedro/Documentos/encar/encar/database/factories/ModelFactory.php",
+		"/home/pedro/Documentos/encar/encar/database/seeds/CategoriaSeeder.php",
+		"/home/pedro/Documentos/encar/encar/database/seeds/DatabaseSeeder.php",
+		"/home/pedro/Documentos/encar/encar/composer.json",
+		"/home/pedro/Documentos/encar/encar/app/Models/Negocio.php",
+		"/home/pedro/Documentos/encar/encar/app/DataTables/NegocioDataTable.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/negocios/show_fields.blade.php",
+		"/home/pedro/Documentos/encar/encar/resources/views/negocios/fields.blade.php",
+		"/home/pedro/Documentos/encar/encar/database/migrations/2016_09_20_235946_create_negocios_table.php",
+		"/home/pedro/Documentos/encar/encar/config/app.php",
+		"/home/pedro/Documentos/encar/encar/config/infyom/laravel_generator.php",
+		"/home/pedro/Documentos/encar/encar/.env",
+		"/home/pedro/Documentos/encar/encar/config/database.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/database/migrations/2016_09_20_170152_create_add_negocios_table.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/database/migrations/2016_09_20_170357_create_password_resets_table.php",
+		"/home/pedro/.bash_history",
+		"/home/pedro/Documentos/ENCARSERVICE_2/database/migrations/2016_09_20_063839_add_articulos_table.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/database/migrations/2016_09_20_070738_add_negocios_table.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/database/migrations/2016_09_20_071525_add_negocio_categorias_table.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/database/migrations/2016_09_20_072053_add_servicios_table.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/database/migrations/2016_09_20_072947_add_reservas_table.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/database/migrations/2016_09_20_063248_add_categorias_table.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/database/migrations/2016_09_20_064629_add_imagenes_table.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/database/migrations/2016_09_20_065006_add_etiquetas_table.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/database/migrations/2016_09_20_072617_add_servicio_categorias_table.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/database/migrations/2016_09_20_073008_add_clientes_table.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/resources/views/welcome.blade.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/app/Http/routes.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/composer.json",
+		"/home/pedro/Documentos/ENCARSERVICE_2/config/app.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/public/css/creative.css",
+		"/home/pedro/Documentos/ENCARSERVICE_2/database/migrations/2016_08_23_204108_create_clientes_table.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/resources/views/alumnos/create.blade.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/resources/views/clientes/show_fields.blade.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/resources/views/escuelas/create.blade.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/resources/views/escuelas/edit.blade.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/resources/views/escuelas/index.blade.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/resources/views/escuelas/show.blade.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/resources/views/alumnos/edit.blade.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/resources/views/alumnos/index.blade.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/resources/views/alumnos/show.blade.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/config/infyom/laravel_generator.php",
+		"/home/pedro/Documentos/ENCARSERVICE_2/public/css/bootstrap.min.css",
+		"/media/pedro/Datos/plantillas boostrap/startbootstrap-creative-1.0.4/index.html",
+		"/home/pedro/Documentos/ENCARSERVICE_2/resources/views/clientes/table.blade.php",
+		"/home/pedro/Laravel/Blog/services/resources/views/admin/users/index.blade.php",
+		"/home/pedro/Laravel/Blog/services/app/Http/routes.php",
+		"/home/pedro/Laravel/Blog/services/resources/views/admin/template/main.blade.php",
+		"/home/pedro/Laravel/Blog/services/resources/views/admin/users/edit.blade.php",
+		"/home/pedro/Laravel/Blog/services/app/Http/Controllers/UsersController.php",
+		"/home/pedro/Laravel/Blog/services/composer.json",
+		"/home/pedro/Laravel/Blog/services/config/app.php",
+		"/home/pedro/Laravel/Blog/services/resources/views/admin/template/partials/nav.blade.php",
+		"/home/pedro/Laravel/Blog/services/resources/views/admin/users/create.blade.php",
+		"/home/pedro/MEGAsync/ENCARSERVICE/database/migrations/2016_08_23_204108_create_clientes_table.php",
+		"/home/pedro/MEGAsync/ENCARSERVICE/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/pedro/Laravel/Blog/services/resources/views/admin/users/index.blade.html",
+		"/home/pedro/Laravel/Blog/services/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/pedro/Laravel/Blog/services/config/database.php",
+		"/media/pedro/Datos/FRAMEWORK BOOTSTRAP/bootsrap/index.html",
+		"/home/pedro/Laravel/services/resources/views/welcome.blade.php",
+		"/home/pedro/Laravel/services/resources/views/admin/template/main.blade.php",
+		"/home/pedro/Laravel/services/config/app.php",
+		"/home/pedro/Laravel/services/resources/views/admin/users/create.blade.php",
+		"/home/pedro/Laravel/services/app/Http/routes.php",
+		"/home/pedro/Laravel/services/app/Http/Controllers/UsersController.php",
+		"/home/pedro/Laravel/services/resources/views/admin/template/partials/nav.blade.php",
+		"/home/pedro/Laravel/services/.env",
+		"/home/pedro/Laravel/services/app/Article.php",
+		"/home/pedro/Laravel/startbootstrap-sb-admin-1.0.4/index.html",
+		"/home/pedro/Laravel/services/database/migrations/2016_09_15_073409_add_column_articles_slug.php",
+		"/home/pedro/Laravel/services/composer.json",
+		"/home/pedro/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/pedro/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/pedro/MEGAsync/ENCARSERVICE/.env",
+		"/home/pedro/MEGAsync/ENCARSERVICE/config/database.php",
+		"/home/pedro/MEGAsync/ENCARSERVICE/app/Http/routes.php",
+		"/home/pedro/MEGAsync/ENCARSERVICE/database/migrations/2016_09_15_000822_create_reservas_table.php",
+		"/home/pedro/MEGAsync/ENCARSERVICE/database/migrations/2016_09_15_000713_create_users_table.php",
+		"/home/pedro/Laravel/services/app/Http/Controllers/TestController.php",
+		"/home/pedro/Laravel/services/resources/views/test/index.blade.php",
+		"/home/pedro/Laravel/services/public/css/general.css",
+		"/home/pedro/Documentos/EncarService/servicesencar/app/User.php",
+		"/home/pedro/Documentos/EncarService/servicesencar/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/pedro/Documentos/EncarService/servicesencar/app/Article.php",
+		"/home/pedro/Documentos/EncarService/services/database/migrations/2016_09_07_223548_add_categories_table.php",
+		"/home/pedro/Documentos/EncarService/services/resources/views/welcome.blade.php",
+		"/home/pedro/Documentos/EncarService/services/resources/views/home.blade.php",
+		"/home/pedro/Documentos/EncarService/services/composer.json",
+		"/home/pedro/Documentos/EncarService/services/config/app.php",
+		"/home/pedro/Documentos/EncarService/services/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/pedro/Documentos/EncarService/services/resources/views/layouts/app.blade.php",
+		"/home/pedro/Documentos/EncarService/services/bootstrap/app.php",
+		"/home/pedro/Documentos/EncarService/services/database/migrations/2016_09_07_173628_add_reservation_table.php",
+		"/home/pedro/Documentos/EncarService/services/database/migrations/2016_09_07_164051_add_services.php",
+		"/home/pedro/Documentos/EncarService/services/database/migrations/2016_09_07_163338_add_business.php",
+		"/home/pedro/Documentos/EncarService/services/config/database.php",
+		"/home/pedro/Documentos/EncarService/services/.env",
+		"/home/pedro/Laravel/services/app/Tag.php",
+		"/home/pedro/Laravel/services/app/User.php",
+		"/home/pedro/Laravel/services/app/Image.php",
+		"/home/pedro/Laravel/services/app/Category.php",
+		"/home/pedro/Laravel/services/database/migrations/2016_09_04_035641_add_images_table.php",
+		"/home/pedro/Laravel/services/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/pedro/Laravel/services/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/home/pedro/Laravel/services/database/migrations/2016_09_04_033350_add_categories_table.php"
+	],
+	"find":
+	{
+		"height": 59.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"inicializar",
+			"':')",
+			"nombre",
+			"infy",
+			"<!",
+			"nombre",
+			"jpg",
+			"header.jpg",
+			"header",
+			"header.jpg",
+			"hedader.jpg",
+			"<!",
+			"viewport",
+			">	",
+			"nav",
+			"');\n",
+			"}\n",
+			"activesupport",
+			"time",
+			"a.page",
+			"header.jpg",
+			"soundShoot",
+			"document",
+			"o",
+			"soundShoot",
+			"document",
+			"){",
+			"velocidad",
+			"3",
+			"200",
+			"color",
+			"agregar",
+			"Nave",
+			"moverD",
+			"Start Bootstrap",
+			"portafolio",
+			"por",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "services.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"15":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"16":
+				{
+					"group": 0,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

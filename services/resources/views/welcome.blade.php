@@ -1,29 +1,17 @@
 @extends('admin.template.main')
 
-@section('title', 'home')
+@section('title', 'Inicio')
 
 
 @section('content')
-	
-<div class="jumbotron">
-<center>
-	
-		<h1>Bienvenidos a EncarService</h1>
-  		<p>Un sitio de reservas de servicios en la ciudad de Encarnación.</p>
-  		<p><a class="btn btn-primary btn-lg">Leer mas</a></p>
-	</center>
-  
-</div>
-<center>
 
-	<div class="panel-footer">
- 
- 		Reservados todos los derechos - EncarService - 2016
-	
+
+     <div class="jumbotron">
+		  <h1>Blog Personal</h1>
+		  <p>Bienvenidos a mi Blog!</p>
+		  <a href="#" class="btn btn-default btn-lg btn-block">Leer más</a>
+		  
 	</div>
-	
-</center>
 
-	
 @endsection
 

@@ -1,4 +1,4 @@
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-inverse">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -17,7 +17,8 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Inicio <span class="sr-only">(current)</span></a></li>
-         <li class="active"><a href="{{ route('admin.users.index') }}">Usuarios <span class="sr-only">(current)</span></a></li>
+         <li><a href="{{ route('admin.users.index') }}">Usuarios <span class="sr-only">(current)</span></a></li>
+          <li><a href="{{ route('admin.categories.index') }}">Categorias <span class="sr-only">(current)</span></a></li>
 
         <li><a href="#">Noticias</a></li>
         <li class="dropdown">

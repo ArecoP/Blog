@@ -44,7 +44,22 @@ Route::group(['prefix' => 'articles'], function(){
 //grupo de rutas para el panel de administracion
 Route::group(['prefix' => 'admin'], function(){
 	Route::resource('users','UsersController');
+	Route::get('users/{id}/destroy', [
+
+			'uses' => 'UsersController@destroy',
+			'as'   => 'admin.users.destroy'
+
+		]);
+	Route::resource('categories', 'CategoriesController');
+
+	Route::get('categories/{id}/destroy', [
+
+		'uses' => 'CategoriesController@destroy',
+		'as'   => 'admin.categories.destroy'
+
+		]);
 
 
 
 	});
+

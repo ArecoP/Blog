@@ -6,9 +6,11 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 
-//use App\Http\Controllers\Controller;
+use App\Http\Controllers\Controller;
 
 use App\User;
+use Laracasts\Flash\Flash;
+use App\Http\Requests\UserRequest;
 
 class UsersController extends Controller
 {
@@ -24,7 +26,7 @@ class UsersController extends Controller
     	return view('admin.users.create');
     }
 
-    public function store(Request $request)
+    public function store(UserRequest $request)
     {
 
     	
@@ -32,7 +34,44 @@ class UsersController extends Controller
     	//para encriptar el password
     	$user->password = bcrypt($request->password);
     	$user->save();
-    	dd('Usuario creado');
 
+        Flash::success("Se ha registrado " . $user->name . " de forma exitosa!");
+    	
+        return redirect()->route('admin.users.index');
+    }
+
+    public function show(){
+
+        //
+    }
+
+    public function edit($id){
+
+        $user = User::find($id);
+        return view('admin.users.edit')->with('user', $user);
+
+    }
+
+    public function update(Request $request, $id)
+    {
+
+        $user = User::find($id);
+        $user->name = $request->name;
+        $user->email = $request->email;
+        $user->type = $request->type;
+        $user->save();
+
+        Flash::warning('El usuario ' . $user->name . ' ha sido editado correctamente');
+        return redirect()->route('admin.users.index');
+
+    }
+
+    public function destroy($id)
+    {
+
+       $user = User::find($id);
+       $user->delete();
+       Flash::error('El usuario ' . $user->name . ' ha sido borrado de forma exitosa!');
+       return redirect()->route('admin.users.index');
     }
 }
